@@ -1,0 +1,5 @@
+img#board_image{
+    border-color: black;
+    border-width: 1;
+    border-style: solid;
+}
